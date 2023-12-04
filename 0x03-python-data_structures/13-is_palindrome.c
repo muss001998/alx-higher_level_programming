@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-*add_nodeint by muss -this will adds a new node at the beginning of a listint_t list
+*add_nodeint  -this will add a new node at the beginning of a listint_t list
 *@head: this will always put head of listint_t
 *@n: integer that will add in listint_t list
 *Return:this is the  address of the new element, or NULL if it failed
